@@ -1,4 +1,4 @@
-# Đây là 20 bài trong CrackingLesson đã được tôi crack bằng cách dịch ngược ra mã assembly bằng x64dbg 
+# Đây là 20 bài trong CrackingLesson đã được tôi crack bằng cách dịch ngược ra mã assembly bằng x64dbg và một số công cụ khác
 
 [Link gốc thử thách](https://crackinglessons.com/category/challenges/)
 
